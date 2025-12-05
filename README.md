@@ -3,7 +3,7 @@
 # Hi, I'm Sai Akshitha Nandre 👋
 
 ## About Me  
-I'm a **Cloud-Native Software Engineer** with 3 years of experience building scalable applications using **Java, Spring Boot, Angular, AWS**, and **Kubernetes**. I hold a **Master's in Computer Science ** and specialize in designing microservices, event-driven architectures, and cloud automation.
+I'm a **Cloud-Native Software Engineer** with 3 years of experience building scalable applications using **Java, Spring Boot, Angular, AWS**, and **Kubernetes**. I hold a **Master's in Computer Science** and specialize in designing microservices, event-driven architectures, and cloud automation.
 
 I love solving complex challenges, improving system performance, and integrating **DevOps** best practices into production environments.
 
