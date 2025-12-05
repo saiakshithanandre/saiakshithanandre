@@ -21,7 +21,7 @@ I love solving complex challenges, improving system performance, and integrating
 *Cognizant, Hyderabad, India | Jan 2022 – Jul 2023*  
 - Developed full-stack services for an ML Assist platform using Java and Spring Boot to automate human-annotated data pipelines for ML model training. Built secure REST APIs with RBAC, JWT/OAuth2, optimized PostgreSQL on AWS RDS, and implemented CI/CD, E2E testing, and real-time monitoring with Jenkins, Prometheus, and Grafana to improve deployment reliability and team productivity.
 
-### ** Associate Software Engineer**  
+### **Associate Software Engineer**  
 *Madin Life Sciences, Hyderabad, India | May 2021 – Dec 2021*  
 - Built high-performance REST services using Core Java and Spring MVC, optimizing PL/SQL queries with JDBC, JPA, and Hibernate to improve throughput and reduce patient-record latency. Implemented CI/CD automation with GitHub Actions and supported Agile delivery through active Scrum and JIRA-driven sprint execution.
 
