@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saiakshithanandre)
+
 # Hi, I'm Sai Akshitha Nandre 👋
 
 ## About Me  
@@ -63,3 +65,6 @@ I love solving complex challenges, improving system performance, and integrating
 - [GitHub](https://github.com/saiakshithanandre)  
 - [Email](mailto:saiakshithanandre@gmail.com)  
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=saiakshithanandre&color=blue)
